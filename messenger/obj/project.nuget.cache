@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "JOadB7J6szenRZl0ovb+5dZRiToYahAh9+DN3foSKFQPOKNQWF7AMUhDi9Kx6cSjCrzgsQDq+zdgi6OrcPl6vw==",
+  "success": true,
+  "projectFilePath": "D:\\П50-4-21(2 курс)\\ОАиП Скорогудаева\\Проекты\\messenger\\messenger\\messenger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fisuy\\.nuget\\packages\\materialdesigncolors\\2.1.2\\materialdesigncolors.2.1.2.nupkg.sha512",
+    "C:\\Users\\fisuy\\.nuget\\packages\\materialdesignthemes\\4.8.0\\materialdesignthemes.4.8.0.nupkg.sha512",
+    "C:\\Users\\fisuy\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\fisuy\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
